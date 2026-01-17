@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-Tool-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/alxgraphy/readme-generator?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/alxgraphy/readme-maker?style=for-the-badge)
 
 </div>
 
